@@ -2,7 +2,7 @@
   "name": "npx-abuse",
   "version": "1.0.0",
   "description": "to test whether npx can exploit or not",
-  "main": "index.js",
+  "main": "boom.js",
   "bin": "./boom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
